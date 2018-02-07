@@ -1,6 +1,8 @@
 To get you started you can simply clone the `Weather-APP` repository and install the dependencies:
+## Demo
+Let's see the [demo][demo]
 
-1)clone zip archive from  repository: https://github.com/anton1gritsenko/weather-app
+1)clone zip archive from  repository: https://github.com/anton1gritsenko/anton1gritsenko.github.io
 2)on project directory use terminal (PHPstorm)
 3)use command install npm: 'npm install'
 4)use command install bower components: 'bower install'
@@ -28,6 +30,6 @@ and starting app Weather-APP
 
 The app uses http request for access to files from the server. For correct access you should to allow access control original.
 The easier way is install extension for your browser.
-
+[demo]:https://anton1gritsenko.github.io/app/index.html#/home
 
 
